@@ -1,0 +1,29 @@
+2025-09-24 20:14:59 [INFO]: ➡️ GET /produtos
+2025-09-24 20:14:59 [INFO]: Produtos encontrados: 4
+2025-09-24 20:32:59 [INFO]: ➡️ POST /pedidos
+2025-09-24 20:32:59 [ERROR]: Erro ao criar pedido: Logger.logError is not a function
+2025-09-24 20:33:15 [INFO]: ➡️ POST /pedidos
+2025-09-24 20:33:15 [ERROR]: Erro ao criar pedido: Logger.logError is not a function
+2025-09-24 20:34:07 [INFO]: ➡️ POST /pedidos
+2025-09-24 20:34:07 [ERROR]: Erro ao criar pedido: Logger.logError is not a function
+2025-09-24 20:36:31 [INFO]: ➡️ POST /pedidos
+2025-09-24 20:36:31 [ERROR]: Erro ao criar pedido: Logger.logError is not a function
+2025-09-24 20:40:07 [INFO]: ➡️ POST /pedidos
+2025-09-24 20:40:07 [INFO]: Pedido criado: 68d48157c2b649b495901732
+2025-09-24 20:53:21 [INFO]: ➡️ DELETE /pedidos/68d48157c2b649b495901732
+2025-09-24 20:53:21 [INFO]: Pedido deletado: 68d48157c2b649b495901732
+2025-09-24 20:53:37 [INFO]: ➡️ GET /pedidos
+2025-09-24 20:53:37 [INFO]: Pedidos encontrados: 0
+2025-09-24 20:54:02 [INFO]: ➡️ GET /produtos
+2025-09-24 20:54:02 [INFO]: Produtos encontrados: 4
+2025-09-24 20:54:16 [INFO]: ➡️ DELETE /produtos/68cb611578e4262779f8337b
+2025-09-24 20:54:16 [INFO]: Produto deletado: 68cb611578e4262779f8337b
+2025-09-24 20:54:27 [INFO]: ➡️ GET /produtos
+2025-09-24 20:54:27 [INFO]: Produtos encontrados: 3
+2025-09-24 20:54:42 [INFO]: ➡️ GET /usuarios
+2025-09-24 20:54:42 [INFO]: Usuários encontrados: 2
+2025-09-24 20:54:53 [INFO]: ➡️ GET /usuarios/68cb6a43c49e9beb62ce40a5
+2025-09-24 20:55:05 [INFO]: ➡️ DELETE /usuarios/68cb6a43c49e9beb62ce40a5
+2025-09-24 20:55:05 [INFO]: Usuário deletado: 68cb6a43c49e9beb62ce40a5
+2025-09-24 20:55:11 [INFO]: ➡️ GET /usuarios
+2025-09-24 20:55:11 [INFO]: Usuários encontrados: 1
